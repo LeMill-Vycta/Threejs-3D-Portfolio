@@ -64,9 +64,9 @@ const Navbar = () => {
         >
           <img src={logo} alt="logo" className="w-9 h-9 object-contain" />
           <p className="text-white text-[18px] font-bold cursor-pointer flex ">
-            John Doe &nbsp;
-            <a href="mailto:contact@vyctalemill.com" target="_blank">| contact@vyctalemill.com</a> 
+            John Doe &nbsp; 
           </p>
+          <a href="mailto:contact@vyctalemill.com" target="_blank"><span className="text-[#915EFF]">contact@vyctalemill.com</span></a>
         </Link>
 
         <ul className="list-none hidden sm:flex flex-row gap-10">
