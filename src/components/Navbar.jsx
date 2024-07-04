@@ -66,7 +66,7 @@ const Navbar = () => {
           <p className="text-white text-[18px] font-bold cursor-pointer flex ">
             John Doe &nbsp; 
           </p>
-          <a href="mailto:contact@vyctalemill.com" target="_blank"><span className="text-[#915EFF]">contact@vyctalemill.com</span></a>
+          <a href="mailto:contact@vyctalemill.com" target="_blank"><span className="text-[#915EFF]text-sm xl: text-[18px]">contact@vyctalemill.com</span></a>
         </Link>
 
         <ul className="list-none hidden sm:flex flex-row gap-10">
